@@ -1,5 +1,5 @@
 # insta-clone
-This is a Static Website Generator completed as part of EECS485.
+This is a Static Website Generator completed as part of EECS485. I have decided to keep the code private.
 
 Language Used: HTML,CSS,Python
 Packages: Jinja2, Click(to parse Commandline arguments)
